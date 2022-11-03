@@ -1,0 +1,13 @@
+dropbox==11.10.0
+Flask==1.1.2
+psutil==5.8.0
+pyinstaller==4.3
+pynput==1.6.8
+pywin32==300
+pywin32-ctypes==0.2.0
+pywinpty==0.5.7
+requests==2.25.1
+winshell==0.6
+opencv-python==4.5.1.48
+getmac==0.8.2
+PyAutoGUI==0.9.53
